@@ -1,0 +1,312 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 35px;
+    margin:0px 155px;
+}
+.rty{
+    display: flex;
+    list-style-type:none;
+    gap: 40px;
+}
+.rty li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 540;
+}
+.cont button{
+    padding: 10px 20px;
+    background-color: rgba(240, 248, 255, 0);
+    color:  hsla(18, 100%, 60%, 1);
+    border: 1px solid hsla(18, 100%, 60%, 1)
+}
+.cont1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 200px;
+    margin:0px 155px;
+}
+.cont1 .box1 h2{
+    font-size: 80px;
+    color: #424242;
+}
+.cont1 .box1 p{
+    font-size: 21px;
+    margin-top: 25px;
+    color: #7a7a7a;
+}
+.cont1 .box1 button{
+    padding: 20px 30px;
+    font-size: 19px;
+    background: hsla(18, 100%, 60%, 1);
+    border: none;
+    border-radius: 7.5px;
+    color: #fff;
+    margin-top: 35px;
+}
+.mk{
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+.posit{
+    width: 100%;
+    height: 750px;
+    background: hsla(18, 100%, 60%, 1);
+    margin-bottom: 30px;
+    margin-top: 200px;
+}
+.posit img{
+    width: 1000px;
+    margin-left: 165px;
+    margin-top: 187px;
+}
+.boiu{
+    justify-content: space-between;
+    height: 30px;
+    display: flex;
+    margin-bottom: 30px;
+    margin:0px 155px;
+}
+.cont2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 200px;
+    margin:100px 155px;
+    align-items: center;
+    margin-top: 60px;
+}
+.cont2 .box1 h2{
+    font-size: 80px;
+    color: #424242;
+}
+.cont2 .box1 p{
+    font-size: 21px;
+    color: #7a7a7a;
+}
+.cont2 .box1 button{
+    padding: 20px 30px;
+    font-size: 19px;
+    background: hsla(18, 100%, 60%, 1);
+    border: none;
+    border-radius: 7.5px;
+    color: #fff;
+}
+.cont2 .m p{
+
+    color: hsla(18, 100%, 60%, 1);
+    margin-top: 10px;
+    font-weight: 600;
+    font-size:25px; 
+}
+.cont3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    margin: 100px 155px;
+    align-items: center;
+    margin-top: 60px;
+}
+.cont3 .box1 h2{
+    font-size: 80px;
+    color: #424242;
+}
+.cont3 .box1 p{
+    font-size: 21px;
+    color: #7a7a7a;
+}
+.cont3 .box1 button{
+    padding: 20px 30px;
+    font-size: 19px;
+    background: hsla(18, 100%, 60%, 1);
+    border: none;
+    border-radius: 7.5px;
+    color: #fff;
+}
+.cont3 .m p{
+
+    color: hsla(18, 100%, 60%, 1);
+    margin-top: 10px;
+    font-weight: 600;
+    font-size:25px; 
+}
+.cont3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    margin: 100px 155px;
+    align-items: center;
+    margin-top: 60px;
+}
+.cont4 .box1 h2{
+    font-size: 80px;
+    color: #424242;
+}
+.cont4 .box2 p{
+    font-size: 21px;
+    color: #7a7a7a;
+}
+.cont4{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    margin: 100px 155px;
+    align-items: center;
+    margin-top: 60px;
+}
+.cont5{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    margin: 100px 155px;
+    align-items: center;
+    margin-top: 60px;
+}
+.cont5 .box3{
+    width: 300px;
+    height: 350px;
+    justify-content: center;
+    font-size: 20px;
+    align-items: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 0px 8px 0px;
+    border-radius: 30px;
+}
+.cont5 .box3 p{
+    color: #7a7a7a;
+    font-size: 18px;
+    margin-top:10px;
+    margin-left:10px;
+    text-align: center;
+}
+.cont5 .box3 h2{
+    color: #424242;
+    margin-left:50px;
+}
+.cont5 .box3 img{
+    margin-left:140px;
+    margin-top: 100px;
+}
+.cont5 .box4{
+    width: 300px;
+    height: 350px;
+    justify-content: center;
+    font-size: 20px;
+    align-items: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 0px 8px 0px;
+    border-radius: 30px;
+}
+.cont5 .box4 p{
+    color: #7a7a7a;
+    font-size: 18px;
+    margin-top:10px;
+    margin-left:10px;
+    text-align: center;
+}
+.cont5 .box4 h2{
+    color: #424242;
+    margin-left:65px;
+}
+.cont5 .box4 img{
+    margin-left:140px;
+    margin-top: 100px;
+}
+.cont5 .box5{
+    width: 300px;
+    height: 350px;
+    justify-content: center;
+    font-size: 20px;
+    align-items: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 0px 8px 0px;
+    border-radius: 30px;
+}
+.cont5 .box5 p{
+    color: #7a7a7a;
+    font-size: 18px;
+    margin-top:10px;
+    margin-left:10px;
+    text-align: center;
+}
+.cont5 .box5 h2{
+    color: #424242;
+    margin-left:50px;
+}
+.cont5 .box5 img{
+    margin-left:140px;
+    margin-top: 100px;
+}
+.pasro{
+    padding: 100px 155px;
+    background: hsla(17, 100%, 99%, 1);
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.box6{
+    width: 300px;
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 30px 25px;
+}
+.box6 p{
+    margin-top: 10px;
+    font-size: 18px;
+    margin-left: 5px;
+}
+.p{
+    margin-top: 35px;
+}
+.box6 h3{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.ljk{
+    display: flex;
+}
+.box6 h2{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.ui{
+    color: #999;
+    font-size: 4px;
+}
+.box6 button{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 25px;
+    border: none;
+    background-color: #42424200;
+    color: hsla(18, 100%, 60%, 1);
+    margin-top: 21px;
+    border-radius: 10px;
+    border: 1px solid hsla(18, 100%, 60%, 1)
+}
+.cont6{
+    background-color: hsla(18, 100%, 60%, 1);
+    display: flex;
+    height: 400px;
+    justify-content: space-between;
+}
+.op{
+    padding: 15px 20px;
+    font-size: 23px;
+    border-radius: 7px;
+    border: none;
+    margin-top: 30px;
+    color: hsla(18, 100%, 60%, 1);
+}
